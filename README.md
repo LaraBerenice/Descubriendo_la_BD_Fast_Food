@@ -15,13 +15,9 @@ A continuación, se presenta una explicación teórica de lo realizado en cada a
 - **Archivo 3**: Inserción de datos de ejemplo.
 - **Archivo 4**: Consultas y procedimientos para optimización y análisis.
 
-## Diagrama de la Base de Datos
-
 <div align="center">
   <img src="./Imagenes/Captura de pantalla 2024-11-11 174259.png" alt="Diagrama de la base de datos de Fast Food" width="800" />
 </div>
-
-Este diagrama muestra la estructura y relaciones entre las diferentes tablas que conforman la base de datos de **Fast Food**.
 
 ## Objetivos del Proyecto
 
